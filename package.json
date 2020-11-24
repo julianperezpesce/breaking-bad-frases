@@ -1,0 +1,19 @@
+{
+  "name": "frases-breaking-bad",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.1.1",
+    "@emotion/styled": "^11.0.0",
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
+    "i": "^0.3.6"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.9",
+    "vite-plugin-react": "^3.0.2"
+  }
+}
